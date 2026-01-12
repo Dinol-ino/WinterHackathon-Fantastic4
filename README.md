@@ -10,7 +10,7 @@ Lack of transparency
 
 By converting properties into digital tokens, users can buy, sell, and trade property shares securely and transparently without heavy paperwork or intermediaries.
 
-#Target users:
+Target users:
 Small investors, property owners, and real-estate platforms.
 
 
@@ -28,7 +28,7 @@ IPFS-based document storage
 
 Transparent transaction history
 
-#Tech Stack
+Tech Stack
 
 Frontend: React, Tailwind CSS
 
@@ -40,7 +40,7 @@ Database: Firebase Firestore
 
 Storage: IPFS (Pinata)
 
-#Google Technologies Used
+Google Technologies Used
 
 Google technologies 
 
